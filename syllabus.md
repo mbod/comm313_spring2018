@@ -85,41 +85,6 @@ A central goal of this class is to help students begin to develop programming sk
 
 It is **very important** to attend the lab sessions and to work through the assignments. But if you get stuck do *ask for help sooner rather than later*. Come by my office hours or make an appointment and we can try and come up with ways to help. Every Thursday before the lab sessions from 1.00-1.30pm I will aim to be available to help with programming problems.
 
-## Course Canvas Site
-
-1.  Go to: https://canvas.upenn.edu/
-2.  Login
-3.  In Courses select Communication 313
-
-You will be required to use Canvas in order to participate fully in this course. It is your responsibility to ensure that you can access the course Canvas site. You are also responsible for keeping yourself updated on all messages and other information posted on the Canvas site throughout this term. Please let me know if you are having trouble accessing this site at any point throughout the semester.
-
-
-## Course & University Policies
-1.  **Missing Class**:  There is a lot to learn in this class, particularly in terms of acquiring programming skills. If you miss class ask one of your classmates if they can help you and go over the material and exercises with you AS SOON AS POSSIBLE.  If you miss several classes, you risk falling behind and not being able to complete the harder assignments. I am not able to work one-on-one outside of class to help you catch up. So if you miss too much you may be asked to leave the course and/or you will lose points on the assignments.
-
-2. **Students with Disabilities**:  University of Pennsylvania provides accommodations to students with disabilities who have self-identified and been approved by the office of Student Disabilities Services (SDS). If you have not yet contacted SDS, and would like to request accommodations or have questions, you can make an appointment by calling SDS 215.573.9235.  The office is located in the Weingarten Learning Resources Center at Stouffer Commons 3702 Spruce Street, Suite 300.  All services are confidential.
-
-3. **Academic Integrity**: Part of your responsibility as a student and scholar is to do your own thinking and to acknowledge the work you are building from. This is the foundation of academic integrity and academic honesty. In addition to cheating yourself, any form of academic dishonesty (intentional or unintentional) will be punished with a 0 on the assignment, and may result in failing this class. Violations will also be reported to the Dean's Office. But as noted above in _Note about learning programming_ you are not expected (in fact it is impossible) to become an experienced programmer during this course. You are encouraged to look at and adapt code examples provided by me and written by others in books and online forums etc. as you complete assignments. 1. Be sure to credit the source in a comment in your code. 2. Make your best effort to understand what the code is doing and explain it in a comment. Please touch base with me if you have any questions or need clarification about academic honesty.   
-
-4. **Help (ask early and as often as needed)**: If you have any problems or concerns throughout the class, please come see me during office hours, before it is too late at the end of the semester. Please use office hours whenever possible, but I am willing to make appointments if your schedule makes it impossible to make office hours.  If you have any problems or concerns throughout the course, I am here to help you.  Please see me before it is too late at the end of the semester.
-
-6. **Canvas Policies**:  It is your responsibility to update your Canvas e-mail address to one that you check on a regular basis. If you fail to check your e-mail, or if e-mail sent to you is returned as undeliverable, you still are responsible for the content of the e-mail.   
-
-7. **E-mail Policy and Etiquette**:  My policy is to respond to emails within 2 business days of receipt (i.e. not including Saturdays and Sundays). I am available to students and encourage you all to visit me during office hours and/or make outside appointments with me. I am excited to get to know each of you and to work with you. Please use a professional tone in your emails. You may ask questions about course logistics and content via e-mail. Provided you ask a reasonable question and articulate yourself clearly in your message, I will respond. If you email one of the TAs or me, make sure that your message is clear, and include information about who you are and what course you are in. If you follow these guidelines, we will make sure to respond to you within 2 business days. Do NOT email your TAs or me about your grades. We will NOT respond to emails regarding grades.  If you are concerned about your grades, you must see us in person, during office hours or by appointment.
-
-8. **A grade of "Incomplete"**.  See the University Policy here: https://www.college.upenn.edu/incomplete-grades
-
-9. **Religious Holidays**: Please submit your request for religious accommodations to one of us by the beginning of class on 9/12 so that we can work out an appropriate arrangement.
-
-
-## Penn Resources
-
-* If you find yourself having difficulty with the course material or any other difficulties in your student life, don’t hesitate to ask for help! Come to me, or if it is about an issue beyond this class, please contact your major advisors, or get help from any number of other support services on campus. If you are a Communication major, you can get help by making an appointment with Alison Feather alison.feather@asc.upenn.edu.
-
-* **The Office of Learning Resources** can help if you feel you need more individualized instruction in reading and/or writing, study skills, time management, etc. Phone: (215) 573-9235 [http://www.vpul.upenn.edu/lrc/lr/]
-
-* **Counseling and Psychological Services (CAPS)** offers free and confidential services to all  Penn undergraduate, graduate, and professional students. You may seek free and confidential services from CAPS online. [http://www.vpul.upenn.edu/caps/]
-
 
 ## Course Schedule
 
