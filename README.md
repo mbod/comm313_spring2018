@@ -24,4 +24,4 @@ in which students will work through programming exercises using Jupyter notebook
         * gain a basic level of programming proficiency in the Python programming language and have completed a number of programming exercises to build, clean and analysis corpora of text
 
 
-### ()[syllabus.md]]
+### [Course schedule and syllabus]](syllabus.md)
