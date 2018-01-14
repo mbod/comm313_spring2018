@@ -83,7 +83,6 @@ in which students will work through programming exercises using Jupyter notebook
 
 A central goal of this class is to help students begin to develop programming skills that they can use to approach questions of interest using the growing amounts of textual data available in the era of 'big data'. But like learning any new skill, such as a new language, it takes time and can be frustrating at first. This course does not require students to have any programming background. Realistically it is not possible to become a fully proficient programmer in just one semester. However, the lab sessions and assignments are focused on helping you begin this process and to become comfortable with reading, understanding and modifying Python code examples that you can find on the web etc.
 
-It is **very important** to attend the lab sessions and to work through the assignments. But if you get stuck do *ask for help sooner rather than later*. Come by my office hours or make an appointment and we can try and come up with ways to help. Every Thursday before the lab sessions from 1.00-1.30pm I will aim to be available to help with programming problems.
 
 
 ## Course Schedule
