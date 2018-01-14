@@ -17,8 +17,8 @@ social media (e.g. Twitter), weblogs, online news media and various publicly ava
 * Each week one session will be in lecture and seminar form and provide background for the theory and techniques and the second will be a lab session
 in which students will work through programming exercises using Jupyter notebooks [A web-based programming environment well suited for data science and class-based assignments].
 
-* By completing this course students will:
-        * gain an understanding of relevant linguistic concepts for the analysis of text
+* By completing this course students will: 
+	* gain an understanding of relevant linguistic concepts for the analysis of text
         * understand the field of corpus linguistics and how its concepts and tools can be applied to text analysis questions of relevance to Communication
         * be exposed to a range of techniques from natural language processing and understand how they can be used to improve content analyses
         * gain a basic level of programming proficiency in the Python programming language and have completed a number of programming exercises to build, clean and analysis corpora of text
